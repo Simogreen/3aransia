@@ -7,3 +7,4 @@
 ## Contributors
 
 - Anass JOUHRI <anass.jouhri@gmail.com>
+- Mohamed JAIDI <jaidi.med@gmail.com>
